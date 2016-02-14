@@ -1,8 +1,8 @@
 title: Blender Realistic
 description:
 
-url: http://brianmaierjr.github.com/long-hau
-baseurl: ""
+url:
+baseurl: "Blender Realistic"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
